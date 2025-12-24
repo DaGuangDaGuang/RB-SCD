@@ -13,12 +13,11 @@ Dynamic Frequency Coupler (DFC): Models linear structural continuity via wavelet
 Textual Frequency Filter (TFF): Resolves semantic ambiguity using text-guided frequency filtering.  
 
 ## Dataset Preview (RB-SCD)
-We provide a preview of the RB-SCD dataset in the dataset_samples/ folder.  
+We provide a preview of the RB-SCD dataset in the dataset_samples/T1/T2/Label.  
 
 
 ## Model Architecture (MFDCD)
-We provide the core implementation of our proposed modules in the models/ directory:
-models/DFC.py: Implementation of the Dynamic Frequency Coupler.
-models/TFF.py: Implementation of the Textual Frequency Filter.
+We provide the core implementation of our proposed modules in the models/model.py
+
 
 
